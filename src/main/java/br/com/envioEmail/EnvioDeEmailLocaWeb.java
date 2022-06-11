@@ -15,7 +15,7 @@ public class EnvioDeEmailLocaWeb {
 
 	  static String emailDestinatario = "tiagomf29@hotmail.com";
 	  static String nomeDestinatario = "Teste";
-	  static String emailRemetente = "financeiro@cheiodevida.com.br";
+	  static String emailRemetente = "xxxx@cvida.com.br";
 	  static String nomeRemetente = "Teste";
 	  static String assunto = "Assunto do e-mail";
 	  static String body = "Corpo da mensagem";
